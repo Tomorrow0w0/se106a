@@ -14,6 +14,3 @@
 學習筆記   | [wiki](../../wiki)
 疑問解答   | [issue](https://github.com/cccnqu/se106a/issues)
 
-https://blog.csdn.net/u010853261/article/details/54811554
-
-http://kanchengzxdfgcv.blogspot.com/2017/11/raspberry-pi-3-root.html
